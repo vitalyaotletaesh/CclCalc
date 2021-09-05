@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane fx:id="account" maxHeight="900.0" maxWidth="700.0" prefHeight="900" prefWidth="700" style="-fx-background-color: #535353;" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Account">
+
+</AnchorPane>
